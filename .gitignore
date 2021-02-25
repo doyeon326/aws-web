@@ -143,11 +143,11 @@ buildNumber.properties
 *.asp
 *.cer
 *.csr
-*.css
-*.htm
-*.html
+####*.css ###
+*.htm 
+###*.html ###
 *.js
-*.jsp
+###*.jsp ###
 *.php
 *.rss
 *.wasm
